@@ -1,0 +1,9 @@
+﻿  Passageiro.c
+D:\Desktop\isec\3 ano\2 semestre\SO2\trabalho prático\Passageiro\Passageiro\Passageiro.c(150,46): warning C4047: 'function': 'const HANDLE *' differs in levels of indirection from 'HANDLE (*)[2]'
+D:\Desktop\isec\3 ano\2 semestre\SO2\trabalho prático\Passageiro\Passageiro\Passageiro.c(150,38): warning C4022: 'WaitForMultipleObjects': pointer mismatch for actual parameter 2
+D:\Desktop\isec\3 ano\2 semestre\SO2\trabalho prático\Passageiro\Passageiro\Passageiro.c(185,23): warning C4047: '=': 'boolean *' differs in levels of indirection from 'int'
+D:\Desktop\isec\3 ano\2 semestre\SO2\trabalho prático\Passageiro\Passageiro\Passageiro.c(208,75): warning C4047: 'function': 'LPDWORD' differs in levels of indirection from 'LPDWORD *'
+D:\Desktop\isec\3 ano\2 semestre\SO2\trabalho prático\Passageiro\Passageiro\Passageiro.c(208,73): warning C4024: 'ReadFile': different types for formal and actual parameter 4
+D:\Desktop\isec\3 ano\2 semestre\SO2\trabalho prático\Passageiro\Passageiro\Passageiro.c(189): warning C4716: 'leInputUser': must return a value
+D:\Desktop\isec\3 ano\2 semestre\SO2\trabalho prático\Passageiro\Passageiro\Passageiro.c(293): warning C4716: 'leNamedPipes': must return a value
+  Passageiro.vcxproj -> D:\Desktop\isec\3 ano\2 semestre\SO2\trabalho prático\Passageiro\x64\Debug\Passageiro.exe
